@@ -1,0 +1,181 @@
+{
+  "success": true,
+  "data": {
+    "property_id": "CG-4221-UX",
+    "slug": "34-moore-street-bondi-nsw-2026",
+    "url": "https://www.domain.com.au/property-profile/34-moore-street-bondi-nsw-2026",
+    "category": "Residential",
+    "type": "House",
+    "market_status": "ON_MARKET",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "parking_spaces": 1,
+    "internal_area": 184,
+    "land_area": 311,
+    "year_built": 1930,
+    "lot_number": "1",
+    "plan_number": "196084",
+    "features": [
+      "Air Conditioning",
+      "Balcony"
+    ],
+    "address": {
+      "display_address": "34 Moore Street, Bondi NSW 2026",
+      "unit_number": null,
+      "street_number": "34",
+      "street": "Moore Street",
+      "street_name": "Moore",
+      "street_type": "St",
+      "suburb": "Bondi",
+      "postcode": "2026",
+      "state": "NSW",
+      "latitude": -33.89266,
+      "longitude": 151.26528
+    },
+    "suburb": {
+      "name": "Bondi",
+      "location": "bondi-nsw-2026",
+      "state": "NSW",
+      "postcode": "2026",
+      "area": "Eastern Suburbs"
+    },
+    "valuation": {
+      "lower_price": 4070000,
+      "mid_price": 4640000,
+      "upper_price": 5210000,
+      "price_confidence": "High",
+      "rent_per_week": null,
+      "rent_yield": null,
+      "source": "APM",
+      "date": "2026-10-02T01:03:53.000Z"
+    },
+    "rental_estimate": {
+      "weekly_rent_estimate": 2830,
+      "percent_yield_rent_estimate": 3.2,
+      "rental_fsd": 0.15,
+      "rental_fsd_confidence": "High",
+      "estimate_date": "2026-09-30"
+    },
+    "timeline": [
+      {
+        "category": "Rental",
+        "date": "2013-07-24T00:00:00.000Z",
+        "price": 1000,
+        "price_description": "PER WEEK",
+        "days_on_market": null,
+        "is_major_event": true,
+        "is_sold": null,
+        "agency": null
+      },
+      {
+        "category": "Rental",
+        "date": "2012-11-03T00:00:00.000Z",
+        "price": null,
+        "price_description": "PER WEEK",
+        "days_on_market": 3,
+        "is_major_event": true,
+        "is_sold": null,
+        "agency": {
+          "agency_id": 4206,
+          "name": "Ray White Park Coast East"
+        }
+      },
+      {
+        "category": "Sale",
+        "date": "2012-10-23T00:00:00.000Z",
+        "price": 1560000,
+        "price_description": "AUCTION",
+        "days_on_market": 122,
+        "is_major_event": true,
+        "is_sold": true,
+        "agency": {
+          "agency_id": 4206,
+          "name": "Ray White Park Coast East"
+        }
+      }
+    ],
+    "suburb_sales_by_year": [
+      {
+        "year": 2022,
+        "median_sold_price": 4550000,
+        "annual_growth": 0,
+        "number_sold": 22,
+        "days_on_market": 0
+      },
+      {
+        "year": 2023,
+        "median_sold_price": 4175000,
+        "annual_growth": -0.08241758241758242,
+        "number_sold": 16,
+        "days_on_market": 0
+      }
+    ],
+    "perils": {
+      "zoning": "Medium density residential",
+      "zones": []
+    },
+    "summary": {
+      "intro": "34 Moore Street, Bondi NSW 2026 is a house in Waverley. This property has 4 bedrooms, 3 bathrooms, and a car space. It also offers air conditioning, and a balcony.",
+      "size_and_zoning": "Measuring 311sqm, with 184sqm of internal space, the property is zoned medium density residential. There are no bushfire, flood or heritage restrictions.",
+      "sales_history": "This property last sold in October 2012 for $1.56m at auction through Ray White Park Coast East, following 122 days on market. The prior sale was in 2003 at a price of $1.5m, a difference of $60,000.",
+      "market": "Properties in this locality typically achieve sale within 53 days of listing. This property is valued at $4.64 million, ranging from $4,070,000 to $5,210,000, which is near the suburb median of $4.26 million. Expected weekly rental income is approximately $2,830, representing a yield of 3.20% which is marginally above the suburb median of 2.67%. The area's vacancy rate of 2.76% indicates consistent rental demand."
+    },
+    "lot_boundaries": [
+      "POLYGON((151.265049991 -33.892665984,151.265064172 -33.892599714,151.265514227 -33.892663671,151.265501364 -33.892727934,151.265049991 -33.892665984))"
+    ],
+    "listings": [
+      {
+        "listing_id": 2021105499,
+        "url": "https://www.domain.com.au/2021105499",
+        "type": "BUY",
+        "status": "LIVE",
+        "promo_level": "premiumPlus",
+        "display_price": "Guide $4,500,000",
+        "virtual_tour_url": null,
+        "agency": {
+          "agency_id": 205,
+          "name": "McGrath Double Bay ",
+          "logo": "https://rimh2.domainstatic.com.au/Ub9wxAZ9XkLOlZENJyXRnZFGSKY=/fit-in/200x70/filters:format(png):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/205/logo_205.png?date=133520028459416707?date=639172049232000000",
+          "colour": "#141414"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "type": "property",
+        "date": "2026-08-27T00:00:00.000Z",
+        "url": "https://rimh2.domainstatic.com.au/ShraSmb3kV5zVo8-s5zieoXv2Ko=/fit-in/1020x500/filters:format(png):quality(80):no_upscale()/2021105499_1_1_260827_014550-w4134-h2756",
+        "large_url": "https://rimh2.domainstatic.com.au/tU1_b9AH3b9iEX2_Q4nO4de-1HU=/fit-in/1920x1080/filters:format(png):quality(80):no_upscale()/2021105499_1_1_260827_014550-w4134-h2756"
+      }
+    ],
+    "comparable_sales": [
+      {
+        "slug": "1-miller-street-bondi-nsw-2026",
+        "address": "1 MILLER STREET, BONDI, NSW 2026",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "car_spaces": 2,
+        "photos": [
+          {
+            "url": "https://b.domainstatic.com.au/2020796776_1_1_260428_114809-w4134-h2757",
+            "rank": 1
+          }
+        ]
+      }
+    ],
+    "nearby_schools": [
+      {
+        "school_id": "7566",
+        "acara_id": "43922",
+        "name": "Montessori East",
+        "distance": 128.73580235896756,
+        "sector": "Independent",
+        "type": "Primary",
+        "gender": "CoEd",
+        "year_range": "K-6",
+        "total_enrolments": 80,
+        "display_address": "Bondi, NSW, 2026"
+      }
+    ]
+  }
+}

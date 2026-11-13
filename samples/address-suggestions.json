@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "query": "4/11 flood st bondi",
+    "channel": "residential",
+    "count": 10,
+    "results": [
+      {
+        "property_id": "DT-3696-ZZ",
+        "slug": "4-11-flood-street-bondi-nsw-2026",
+        "address": "4/11 Flood Street, Bondi NSW 2026",
+        "unit_number": "4",
+        "street_number": "11",
+        "street_name": "Flood",
+        "street_type": "St",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "score": 739.2505
+      },
+      {
+        "property_id": "MJ-3711-QS",
+        "slug": "4-9a-11-flood-street-bondi-nsw-2026",
+        "address": "4/9A-11 Flood Street, Bondi NSW 2026",
+        "unit_number": "4",
+        "street_number": "9A-11",
+        "street_name": "Flood",
+        "street_type": "St",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "score": 238.19284000000002
+      }
+    ]
+  }
+}

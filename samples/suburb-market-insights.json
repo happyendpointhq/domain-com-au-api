@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "data": {
+    "suburb": {
+      "name": "Bondi Beach",
+      "location": "bondi-beach-nsw-2026",
+      "state": "NSW",
+      "postcode": "2026",
+      "area": "Eastern Suburbs",
+      "region": "Sydney Region"
+    },
+    "property_type": "house",
+    "bedrooms": 3,
+    "median_sold_price": 3800000,
+    "annual_growth": -0.05,
+    "days_on_market": 0,
+    "recent_sales_price_low": 2936400,
+    "recent_sales_price_high": 5280000,
+    "yearly": [
+      {
+        "year": 2022,
+        "median_sold_price": 3725000,
+        "number_sold": 13,
+        "annual_growth": 0,
+        "days_on_market": null
+      },
+      {
+        "year": 2023,
+        "median_sold_price": null,
+        "number_sold": 6,
+        "annual_growth": null,
+        "days_on_market": null
+      }
+    ],
+    "related": [
+      {
+        "property_type": "House",
+        "bedrooms": 4,
+        "median_sold_price": 4725000,
+        "annual_growth": 0.005319148936170213,
+        "days_on_market": 0,
+        "recent_sales_price_low": 4116950,
+        "recent_sales_price_high": 9042500
+      }
+    ],
+    "boundary": {
+      "center": {
+        "latitude": -33.88957935424463,
+        "longitude": 151.272476029754
+      },
+      "geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.2625736,
+              -33.8885574
+            ],
+            [
+              151.2625159,
+              -33.8888441
+            ]
+          ]
+        ]
+      }
+    }
+  }
+}

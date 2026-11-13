@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "data": {
+    "query": "sydney",
+    "count": 9,
+    "results": [
+      {
+        "type": "suburb",
+        "display_name": "Sydney, NSW, 2000",
+        "name": "Sydney",
+        "slug": "sydney-nsw-2000",
+        "state": "NSW",
+        "postcode": "2000",
+        "suburb": null,
+        "area": "Sydney City",
+        "region": "Sydney Region",
+        "location": "sydney-nsw-2000",
+        "project_id": null
+      },
+      {
+        "type": "region",
+        "display_name": "Sydney Region, NSW",
+        "name": "Sydney Region",
+        "slug": "sydney-region-nsw",
+        "state": "NSW",
+        "postcode": null,
+        "suburb": null,
+        "area": null,
+        "region": null,
+        "location": "region:sydney-region-nsw",
+        "project_id": null
+      },
+      {
+        "type": "area",
+        "display_name": "Sydney City, NSW",
+        "name": "Sydney City",
+        "slug": "sydney-city-nsw",
+        "state": "NSW",
+        "postcode": null,
+        "suburb": null,
+        "area": null,
+        "region": null,
+        "location": "area:sydney-city-nsw",
+        "project_id": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "success": true,
+  "data": {
+    "listing_id": 2020620392,
+    "url": "https://www.domain.com.au/4-11-flood-street-bondi-nsw-2026-2020620392",
+    "listing_type": "RESIDENTIAL",
+    "listing_mode": "SOLD",
+    "headline": "Ground Floor 134 sqm Townhouse-style Apartment In Boutique `Oasis' Complex",
+    "description": "Set within a boutique security complex in a prized Bondi pocket, this impressive townhouse-style apartment combines space, privacy and lifestyle excellence betw…",
+    "price": {
+      "display_price": "$1,600,000",
+      "price_from": null,
+      "price_to": null,
+      "exact_price": 1695000,
+      "bond": null
+    },
+    "price_update": {
+      "current_price": "For Sale $1,695,000",
+      "current_price_updated": "2026-05-29T01:16:28.816Z",
+      "last_price": "For Sale $1,795,000",
+      "last_updated": "2026-04-14T23:52:22.112Z"
+    },
+    "property_types": [
+      "APARTMENT_UNIT_FLAT"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "carspaces": 1,
+    "land_area": null,
+    "building_area": null,
+    "features": null,
+    "structured_features": [],
+    "date_listed": "2026-02-19T20:19:04+11:00",
+    "date_available": null,
+    "address": {
+      "display_address": "4/11 Flood Street, Bondi NSW 2026",
+      "display_type": "FULL_ADDRESS",
+      "unit_number": "4",
+      "street_number": "11",
+      "street": "Flood Street",
+      "suburb": "Bondi",
+      "suburb_id": 5272,
+      "postcode": "2026",
+      "state": "NSW",
+      "area": "Eastern Suburbs",
+      "region": "Sydney Region",
+      "latitude": -33.8906183,
+      "longitude": 151.2588589,
+      "map_certainty": 9
+    },
+    "promo_level": "PREMIUM_PLUS",
+    "highlights": [
+      {
+        "text": "Sold at auction 25 Jun 2026",
+        "badge_colour": "#FFD3CF",
+        "text_colour": "#4A2222"
+      }
+    ],
+    "hero_image": {
+      "url": "https://rimh2.domainstatic.com.au/YtdHV03PeTvjYcj0fZeDyZqbdrs=/fit-in/640x480/filters:format(webp):quality(80):no_upscale()/2020620392_1_1_260219_065309-w2048-h1365",
+      "large_url": "https://rimh2.domainstatic.com.au/1jwFURePH1A5sDVEwzJSWN5oZ4U=/fit-in/1920x1080/filters:format(webp):quality(80):no_upscale()/2020620392_1_1_260219_065309-w2048-h1365",
+      "type": "photo"
+    },
+    "media": [
+      {
+        "type": "photo",
+        "media_category": "IMAGE",
+        "url": "https://rimh2.domainstatic.com.au/YtdHV03PeTvjYcj0fZeDyZqbdrs=/fit-in/640x480/filters:format(webp):quality(80):no_upscale()/2020620392_1_1_260219_065309-w2048-h1365",
+        "large_url": "https://rimh2.domainstatic.com.au/1jwFURePH1A5sDVEwzJSWN5oZ4U=/fit-in/1920x1080/filters:format(webp):quality(80):no_upscale()/2020620392_1_1_260219_065309-w2048-h1365",
+        "preview_image": null
+      }
+    ],
+    "tours_3d": {
+      "interior": null,
+      "exterior": null
+    },
+    "statement_of_information_url": null,
+    "inspections": [],
+    "inspection_timezone": "Australia/Sydney",
+    "inspection_by_appointment_only": false,
+    "rental_application": null,
+    "agency": {
+      "agency_id": 3358,
+      "name": "Raine & Horne Double Bay",
+      "profile_slug": "rainehornedoublebay-3358",
+      "logo": "https://rimh2.domainstatic.com.au/Wqa6oiaVigiUuaoNK0Kp7Nd57xg=/170x60/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/3358/logo_3358.png?date=133669602439162121?date=639172049304630000",
+      "logo_colour": "#ffffff",
+      "website": "http://rh.com.au/doublebaybondibeach",
+      "fax": null,
+      "address": {
+        "display_address": "385 New South Head Road, Double Bay NSW 2028",
+        "suburb": "Double Bay",
+        "postcode": "2028",
+        "state": "NSW",
+        "latitude": -33.8782374,
+        "longitude": 151.2427814
+      }
+    },
+    "status": "SOLD",
+    "sale_method": "PRIVATE_TREATY",
+    "channel": "RESIDENTIAL",
+    "is_rural": false,
+    "virtual_tour_url": null,
+    "virtual_tour_tier": null,
+    "sold_details": {
+      "sold_price": {
+        "display_price": "$1,600,000",
+        "price_from": null,
+        "price_to": null,
+        "exact_price": null
+      },
+      "sold_date": "2026-06-25T00:00:00+10:00",
+      "sale_method": "SoldByPrivateTreaty",
+      "price_source": "Apm",
+      "can_display_price": false
+    },
+    "auction_details": null,
+    "auction_result": {
+      "price": null,
+      "auction_date": "2026-06-24T14:00:00Z"
+    },
+    "rental_method": null,
+    "property_id": "DT-3696-ZZ",
+    "provider_details": {
+      "ad_id": "L39323663",
+      "system": "clientvault"
+    },
+    "project": null,
+    "date_created": "2026-02-19T16:37:37+11:00",
+    "date_updated": "2026-09-30T18:14:31+10:00",
+    "listing_facts": {
+      "address": "4/11 Flood Street, Bondi NSW 2026",
+      "adType": "premiumPlus",
+      "agency": "Raine & Horne Double Bay",
+      "agencyId": 3358,
+      "agentNames": [],
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "connectionTechDetails": "HFC",
+      "corePropertyID": "DT-3696-ZZ",
+      "dateCreated": "2026-02-19T16:37:37.400",
+      "dateListed": "2026-02-19T20:19:04.000",
+      "daysListed": 234,
+      "descriptionHasEmail": false,
+      "descriptionHasPhone": true,
+      "displayedLabels": [
+        "Sold at auction 25 Jun 2026"
+      ],
+      "effectiveDate": "2026-09-30T18:14:31.500",
+      "floorPlansCount": 1,
+      "hasDescription": true,
+      "hasDisplayPrice": true,
+      "hasFloorplan": true,
+      "hasPhoto": true,
+      "hasSOI": false,
+      "images": [
+        "https://bucket-api.domain.com.au/v1/bucket/image/2020620392_1_1_260219_065309-w2048-h1365"
+      ],
+      "inspectionsCount": 0,
+      "lifecycleStatus": "Sold",
+      "listingId": 2020620392,
+      "parking": 1,
+      "photoCount": 14,
+      "postcode": "2026",
+      "price": "SOLD - $1,600,000",
+      "primaryPropertyType": "Apartment",
+      "propertyType": "apartmentUnitFlat",
+      "rentalSystem": "IRE",
+      "saleMethod": "privateTreaty",
+      "saleMode": "sold",
+      "secondaryPropertyType": "Apartment / Unit / Flat",
+      "soldAction": "auction",
+      "state": "NSW",
+      "suburb": "Bondi",
+      "region": "Sydney Region",
+      "videoCount": 0,
+      "virtualTour": false,
+      "hasMatterportInterior": false,
+      "hasMatterportExterior": false
+    }
+  }
+}

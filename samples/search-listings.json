@@ -1,0 +1,183 @@
+{
+  "success": true,
+  "data": {
+    "total": 54,
+    "page": 1,
+    "page_size": 2,
+    "total_pages": 27,
+    "count": 2,
+    "results": [
+      {
+        "result_type": "listing",
+        "listing_id": "2020684133",
+        "listing_slug": "101-134-campbell-parade-bondi-beach-nsw-2026-2020684133",
+        "url": "https://www.domain.com.au/101-134-campbell-parade-bondi-beach-nsw-2026-2020684133",
+        "listing_type": "Sale",
+        "headline": "Brand-New Beachfront",
+        "property_type": "ApartmentUnitFlat",
+        "property_types": [
+          "ApartmentUnitFlat"
+        ],
+        "price": {
+          "display_price": "Contact Agent",
+          "price_from": 8000000,
+          "price_to": 8000000,
+          "exact_price": null
+        },
+        "sold": null,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "carspaces": 2,
+        "land_area": null,
+        "building_area": null,
+        "labels": [
+          {
+            "status": "New",
+            "label": "New"
+          }
+        ],
+        "display_labels": [
+          "New"
+        ],
+        "promo_level": "PREMIUM_PLUS",
+        "is_new": false,
+        "is_rural": false,
+        "is_retirement": false,
+        "has_3d_tour": false,
+        "has_video": false,
+        "has_floor_plan": true,
+        "tags": [],
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Ensuite"
+        ],
+        "date_listed": "2026-10-12T17:22:39+11:00",
+        "date_available": null,
+        "address": {
+          "display_address": "101/134 Campbell Parade, Bondi Beach",
+          "unit_number": "101",
+          "street_number": "134",
+          "street": "Campbell Parade",
+          "suburb": "Bondi Beach",
+          "postcode": "2026",
+          "state": "NSW",
+          "area": "Eastern Suburbs",
+          "region": "Sydney Region",
+          "latitude": -33.890747,
+          "longitude": 151.27391,
+          "map_certainty": 9
+        },
+        "hero_image": "https://rimh2.domainstatic.com.au/G87jFyfTnh6EBRZvfIBroAE1IW8=/filters:format(png):quality(80):no_upscale()/2020684133_1_1_261012_062238-w8192-h5464",
+        "agency": {
+          "agency_id": 7751,
+          "name": "Highland Double Bay",
+          "type": "Agency",
+          "profile_url": null,
+          "logo": "https://rimh2.domainstatic.com.au/xDf4INPIZZKRy43cZVGL_DXSBR0=/170x60/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/7751/logo_7751.png?buster=2026-10-12",
+          "logo_colour": "#BCDDF4"
+        },
+        "inspections": [
+          {
+            "opening": "2026-10-17T11:00:00+11:00",
+            "closing": "2026-10-17T11:30:00+11:00",
+            "repeat": false
+          }
+        ],
+        "auction_time": "2026-11-12T17:30:00+11:00",
+        "auction_location": "Highland Double Bay",
+        "project": null
+      },
+      {
+        "result_type": "listing",
+        "listing_id": "2021207848",
+        "listing_slug": "1-9-francis-street-bondi-beach-nsw-2026-2021207848",
+        "url": "https://www.domain.com.au/1-9-francis-street-bondi-beach-nsw-2026-2021207848",
+        "listing_type": "Sale",
+        "headline": "Semi-Sized Art Deco Apartment, Just Steps To The Bondi Beach",
+        "property_type": "ApartmentUnitFlat",
+        "property_types": [
+          "ApartmentUnitFlat"
+        ],
+        "price": {
+          "display_price": "Auction",
+          "price_from": 1800000,
+          "price_to": 1800000,
+          "exact_price": null
+        },
+        "sold": null,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "carspaces": null,
+        "land_area": {
+          "size": 423,
+          "unit": "m²"
+        },
+        "building_area": {
+          "size": 112,
+          "unit": "m²"
+        },
+        "labels": [
+          {
+            "status": "Inspection",
+            "label": "Inspect Thu 11am"
+          }
+        ],
+        "display_labels": [],
+        "promo_level": "PREMIUM_PLUS",
+        "is_new": false,
+        "is_rural": false,
+        "is_retirement": false,
+        "has_3d_tour": false,
+        "has_video": false,
+        "has_floor_plan": true,
+        "tags": [],
+        "features": [
+          "BuiltInWardrobes",
+          "Floorboards",
+          "Gas"
+        ],
+        "date_listed": "2026-10-02T17:06:06+10:00",
+        "date_available": null,
+        "address": {
+          "display_address": "1/9 Francis Street, Bondi Beach",
+          "unit_number": "1",
+          "street_number": "9",
+          "street": "Francis Street",
+          "suburb": "Bondi Beach",
+          "postcode": "2026",
+          "state": "NSW",
+          "area": "Eastern Suburbs",
+          "region": "Sydney Region",
+          "latitude": -33.894485,
+          "longitude": 151.27269,
+          "map_certainty": 9
+        },
+        "hero_image": "https://rimh2.domainstatic.com.au/OGCIvoz7kMtWUfnzfcL9HPRVS5U=/filters:format(png):quality(80):no_upscale()/2021207848_1_1_261002_070604-w5000-h3335",
+        "agency": {
+          "agency_id": 32534,
+          "name": "TRG",
+          "type": "Agency",
+          "profile_url": null,
+          "logo": "https://rimh2.domainstatic.com.au/FyploVIfPBv2AP-BsYYyS-8GY4w=/170x60/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/32534/logo_32534.png?buster=2026-10-12",
+          "logo_colour": "#1E293D"
+        },
+        "inspections": [
+          {
+            "opening": "2026-10-15T11:00:00+11:00",
+            "closing": "2026-10-15T11:30:00+11:00",
+            "repeat": false
+          },
+          {
+            "opening": "2026-10-17T11:00:00+11:00",
+            "closing": "2026-10-17T11:30:00+11:00",
+            "repeat": false
+          }
+        ],
+        "auction_time": "2026-10-27T17:00:00+11:00",
+        "auction_location": "Cooleys Auction House, Double Bay",
+        "project": null
+      }
+    ]
+  }
+}

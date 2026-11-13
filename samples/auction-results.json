@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "data": {
+    "city": "sydney",
+    "auction_date": "2026-10-10T00:00:00",
+    "published_date": "2026-10-12T19:01:12.0476686+11:00",
+    "available_dates": [
+      "2026-10-10T00:00:00",
+      "2026-10-03T00:00:00",
+      "2026-09-26T00:00:00"
+    ],
+    "base_url": "https://www.domain.com.au",
+    "summary": {
+      "number_listed_for_auction": 809,
+      "number_withdrawn": 174,
+      "number_unreported": 0,
+      "number_auctioned": 566,
+      "number_sold": 263,
+      "number_passed_in": 129,
+      "total_sales": 209025113,
+      "median": 1390000,
+      "adj_clearance_rate": 0.46466431095406363,
+      "last_year_clearance_rate": 0.6855345911949685
+    },
+    "suburb_filter": "abbotsford-nsw-2046",
+    "suburb_count": 1,
+    "result_count": 1,
+    "suburbs": [
+      {
+        "suburb": "Abbotsford",
+        "sold_url": "/sold-listings/abbotsford-nsw-2046/?ssubs=0",
+        "sale_url": "/sale/abbotsford-nsw-2046/?ssubs=0",
+        "result_count": 1,
+        "results": [
+          {
+            "listing_id": "2021129835",
+            "agency_id": "7511",
+            "location": "abbotsford-nsw-2046",
+            "unit_number": "21",
+            "street_number": "3",
+            "street_name": "Harbourview",
+            "street_type": "Cr",
+            "suburb": "Abbotsford",
+            "postcode": "2046",
+            "state": "Nsw",
+            "geo_location": {
+              "latitude": -33.8499466,
+              "longitude": 151.1328728
+            },
+            "property_type": "Unit",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "carspaces": 2,
+            "price": 2350000,
+            "result": "AUSD",
+            "agency_name": "Horwood Nolan",
+            "agency_colour": "#102834",
+            "agency_logo": "https://images.domain.com.au/img/Agencys/7511/logo_7511.png?date=639172049250830000",
+            "agency_profile_page_url": "https://www.domain.com.au/real-estate-agencies/horwoodnolan-7511",
+            "domain_property_details_url": "https://www.domain.com.au/21-3-harbourview-crescent-abbotsford-nsw-2046-2021129835",
+            "show_agent_branding": true
+          }
+        ]
+      }
+    ]
+  }
+}
